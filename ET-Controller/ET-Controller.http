@@ -1,0 +1,6 @@
+@ET_Controller_HostAddress = http://localhost:5139
+
+GET {{ET_Controller_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

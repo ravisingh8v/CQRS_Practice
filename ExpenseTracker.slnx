@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="ET-AppServices/ET-AppServices.csproj" />
+  <Project Path="ET-Commands/ET-Commands.csproj" />
+  <Project Path="ET-Common/ET-Common.csproj" />
+  <Project Path="ET-Controller/ET-Controller.csproj" />
+  <Project Path="ET-DTO/ET-DTO.csproj" />
+  <Project Path="ET-Infrastructure/ET-Infrastructure.csproj" />
+  <Project Path="ET-Queries/ET-Queries.csproj" />
+</Solution>

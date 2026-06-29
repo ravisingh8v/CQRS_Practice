@@ -1,0 +1,11 @@
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\bin\Debug\net10.0\ET-Common.deps.json
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\bin\Debug\net10.0\ET-Common.dll
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\bin\Debug\net10.0\ET-Common.pdb
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\obj\Debug\net10.0\ET-Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\obj\Debug\net10.0\ET-Common.AssemblyInfoInputs.cache
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\obj\Debug\net10.0\ET-Common.AssemblyInfo.cs
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\obj\Debug\net10.0\ET-Common.csproj.CoreCompileInputs.cache
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\obj\Debug\net10.0\ET-Common.dll
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\obj\Debug\net10.0\refint\ET-Common.dll
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\obj\Debug\net10.0\ET-Common.pdb
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\obj\Debug\net10.0\ref\ET-Common.dll

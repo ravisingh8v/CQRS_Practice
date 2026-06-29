@@ -1,0 +1,17 @@
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\bin\Debug\net10.0\ET-Commands.deps.json
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\bin\Debug\net10.0\ET-Commands.dll
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\bin\Debug\net10.0\ET-Commands.pdb
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\obj\Debug\net10.0\ET-Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\obj\Debug\net10.0\ET-Commands.AssemblyInfoInputs.cache
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\obj\Debug\net10.0\ET-Commands.AssemblyInfo.cs
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\obj\Debug\net10.0\ET-Commands.csproj.CoreCompileInputs.cache
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\obj\Debug\net10.0\ET-Commands.dll
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\obj\Debug\net10.0\refint\ET-Commands.dll
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\obj\Debug\net10.0\ET-Commands.pdb
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\obj\Debug\net10.0\ref\ET-Commands.dll
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\obj\Debug\net10.0\ET-Commands.csproj.AssemblyReference.cache
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\bin\Debug\net10.0\ET-DTO.dll
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\bin\Debug\net10.0\ET-Infrastructure.dll
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\bin\Debug\net10.0\ET-DTO.pdb
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\bin\Debug\net10.0\ET-Infrastructure.pdb
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\obj\Debug\net10.0\ET-Comma.686A2DBB.Up2Date
