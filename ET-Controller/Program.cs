@@ -40,8 +40,9 @@ builder.Services.AddScoped<IExpenseService, ExpenseService>();
 
 // Add Swagger
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen(opt=> 
-opt.OperationFilter<ApiResponseOperationFilter>()
+builder.Services.AddSwaggerGen(
+//     opt=> 
+// opt.OperationFilter<ApiResponseOperationFilter>()
 );
 
 builder.Services.Configure<ApiBehaviorOptions>(options =>

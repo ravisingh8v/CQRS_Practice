@@ -176,3 +176,4 @@ C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Controller\bin\Debug\net10.0\Dapper.dll
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Controller\bin\Debug\net10.0\ET-Common.dll
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Controller\bin\Debug\net10.0\ET-Common.pdb
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Controller\obj\Debug\net10.0\ET-Controller.sourcelink.json

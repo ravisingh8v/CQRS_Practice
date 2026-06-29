@@ -15,3 +15,4 @@ C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\bin\Debug\net10.0\ET-DTO.pdb
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\bin\Debug\net10.0\ET-Infrastructure.pdb
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\obj\Debug\net10.0\ET-Comma.686A2DBB.Up2Date
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Commands\obj\Debug\net10.0\ET-Commands.sourcelink.json

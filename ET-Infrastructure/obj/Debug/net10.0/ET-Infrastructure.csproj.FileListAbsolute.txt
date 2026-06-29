@@ -10,3 +10,4 @@ C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Infrastructure\obj\Debug\net10.0\refint\ET-Infrastructure.dll
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Infrastructure\obj\Debug\net10.0\ET-Infrastructure.pdb
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Infrastructure\obj\Debug\net10.0\ref\ET-Infrastructure.dll
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Infrastructure\obj\Debug\net10.0\ET-Infrastructure.sourcelink.json

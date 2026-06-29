@@ -15,3 +15,4 @@ C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Queries\bin\Debug\net10.0\ET-DTO.pdb
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Queries\bin\Debug\net10.0\ET-Infrastructure.pdb
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Queries\obj\Debug\net10.0\ET-Queries.csproj.Up2Date
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Queries\obj\Debug\net10.0\ET-Queries.sourcelink.json

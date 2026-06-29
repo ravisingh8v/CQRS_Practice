@@ -9,3 +9,4 @@ C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\obj\Debug\net10.0\refint\ET-Common.dll
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\obj\Debug\net10.0\ET-Common.pdb
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\obj\Debug\net10.0\ref\ET-Common.dll
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-Common\obj\Debug\net10.0\ET-Common.sourcelink.json

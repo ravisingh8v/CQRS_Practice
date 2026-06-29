@@ -45,7 +45,7 @@ public class ExpenseController : ControllerBase
     }
 
     [HttpPost]
-    [ProducesResponseType(StatusCodes.Status201Created)]
+    [ProducesResponseType(StatusCodes.Status201Created,  Type = typeof(ApiResponse<ExpenseDto>))]
     // [ProducesResponseType(StatusCodes.Status400BadRequest)]
     public async Task<ActionResult<ExpenseDto>> CreateExpense([FromBody] CreateExpenseDto request, CancellationToken cancellationToken)
     {

@@ -19,3 +19,4 @@ C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-AppServices\bin\Debug\net10.0\ET-Queries.dll
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-AppServices\bin\Debug\net10.0\ET-Queries.pdb
 C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-AppServices\bin\Debug\net10.0\ET-Commands.pdb
+C:\Users\RaviSingh\Desktop\My_Learning_and_Works\3_Dotnet_Learning\CQRS Practice Project\ET-AppServices\obj\Debug\net10.0\ET-AppServices.sourcelink.json

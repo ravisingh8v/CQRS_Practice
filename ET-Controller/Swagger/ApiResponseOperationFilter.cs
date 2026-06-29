@@ -15,7 +15,7 @@ public class ApiResponseOperationFilter : IOperationFilter
 
         // AddResponse(operation, context, "403", "Forbidden");
 
-        AddResponse(operation, context, "404", "Not Found");
+        // AddResponse(operation, context, "404", "Not Found");
 
         // AddResponse(operation, context, "409", "Conflict");
 
